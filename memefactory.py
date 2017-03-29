@@ -476,7 +476,6 @@ def meme(deep):
             print(meme)
 def wowe():
     print()
-    #print("#-- Meme Idea Generator --#")
     print("""
 ¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯
 #--                           Meme Research Lab                            --#
