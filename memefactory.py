@@ -83,7 +83,7 @@ def meme(phrases, deep=1):
             meme = "::  {}{}{} and {}".format(*random_phrases(categories, phrases))
             print(meme)
         elif deep == '3':
-            categories = ['when_situation'
+            categories = ['when_situation',
                           'singular_noun',
                           'singular_action',
                           'singular_action',
