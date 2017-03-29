@@ -2,7 +2,6 @@ import random
 
 #-- Situation Starters that reference a moment --#
 when_situation = [
-    "Does anyone else remember the time that ",
     "how italians react when ",
     "mfw ",
     "mfw ",
